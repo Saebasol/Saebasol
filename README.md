@@ -8,7 +8,7 @@ Saebasol은 원래 [@SaidBySolo](https://github.com/SaidBySolo) 가 운영하던
 
 하지만 혼자서 여러 프로젝트를 관리 하기 어려워 팀원을 모집 하기로 했어요
 
-Saebasol은 API, Discord Bot, Web parsing등 여러 분야에서 활동하고 있어요,
+Saebasol은 API, Discord Bot, Web parsing등 여러 분야에서 활동하고 있어요.
 
 LEWD한 부분이 있지만 이것도 메리트라고 볼 수 있을거 같아요.
 
@@ -38,3 +38,9 @@ LEWD한 부분이 있지만 이것도 메리트라고 볼 수 있을거 같아�
 * github action, Travis ci등 DevOps 관련
 
 * Saebasol Organization 아래의 Repository Contributor (단. style, docs등 기능에 영향을 주지않는 Contribute는 제외)
+
+## 지원 문의
+
+지원 문의는 디스코드에서 받고 있어요.
+
+SaidBySolo#0001

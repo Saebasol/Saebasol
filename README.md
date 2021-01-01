@@ -12,11 +12,11 @@
 
 ## 설명
 
-Saebasol은 원래 [@SaidBySolo](https://github.com/SaidBySolo) 가 운영하던 1인 개발팀이였어요.
+**Saebasol**은 원래 [@SaidBySolo](https://github.com/SaidBySolo) 가 운영하던 1인 개발팀이었어요,
 
 하지만 혼자서 여러 프로젝트를 관리 하기 어려워 팀원을 모집 하기로 했어요
 
-Saebasol은 `API, Discord Bot, Web parsing` 등 여러 분야에서 활동하고 있어요.
+**Saebasol**은 `API, Discord Bot, Web parsing` 등 여러 분야에서 활동하고 있어요.
 
 **LEWD**한 부분이 있지만 이것도 **메리트**라고 볼 수 있을 거 같아요.
 
